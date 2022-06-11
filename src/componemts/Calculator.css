@@ -1,0 +1,44 @@
+.calc {
+    width: 320px;
+    margin: 150px auto;
+}
+
+#screen {
+    background-color: #e2e2e2;
+    padding: 10px;
+    font-size: 35px;
+    width: 294px;
+    height: 45px;
+    text-align: right;
+    border: 3px solid black;
+}
+
+.btn {
+    background: black;
+    height: 80px;
+    width: 80px;
+    color: white;
+    font-size: 30px;
+    border: 1px solid black;
+    float: left;
+}
+
+.btn1 {
+    background: green;
+    height: 80px;
+    width: 160px;
+    color: white;
+    font-size: 30px;
+    border: 1px solid black;
+    float: left;
+}
+
+.btn2 {
+    background: red;
+    height: 80px;
+    width: 160px;
+    color: white;
+    font-size: 30px;
+    border: 1px solid black;
+    float: left;
+}
